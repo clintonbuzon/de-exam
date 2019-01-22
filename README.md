@@ -9,6 +9,7 @@ that we can use without interrupting our work.
 For this exam, you are given an anonymized dump of our checkins for the past
 year. Your goal is to:
 
+- [ ] Decrypt the PGP-encrypted data
 - [ ] Clean the data
 - [ ] Load it to your choice of database
 - [ ] Create a web service that displays a per-user filtered view of the checkins
