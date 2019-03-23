@@ -33,5 +33,7 @@ Submit your code by sharing a __private repo__ to any of the following users:
 
 - https://bitbucket.org/marksteve/
 - https://bitbucket.org/florobarotjr/
+- https://bitbucket.org/syk0saje/
 - https://gitlab.com/marksteve
 - https://gitlab.com/florobarotjr
+- https://gitlab.com/syk0saje/
