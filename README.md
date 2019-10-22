@@ -24,7 +24,7 @@ Bonus points for:
 
 Additional question:
 
-[Additional problem](https://i.imgur.com/EdUiEtk.png)
+![Additional problem](https://i.imgur.com/EdUiEtk.png)
 
 Please code up a brute-force solution to this problem (it will not finish in a reasonable time) and at least 3 improvements to reduce the run time, ideally measuring the incremental reduction in run-time of each improvement. Some ideas:
 - A data structure to enable caching of common look-ups (e.g. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
