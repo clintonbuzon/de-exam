@@ -44,8 +44,9 @@ We value:
 
 ## Submission
 
-Submit your code by sharing a __private repo__ to any of the following users:
+Submit your code by sharing a __private repo__ to the following users:
 
 - https://github.com/marksteve/
 - https://github.com/florobarotjr/
 - https://github.com/syk0saje/
+- https://github.com/nhuber
